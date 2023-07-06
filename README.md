@@ -1,4 +1,6 @@
 # World history through the lens of AI
+![Cover photo](img/cover-photo.png)
+
 Probing 3 different LLMs (in 6 different langauges) for their interpretation of major historical events.
 
 Repository includes the data and analysis done for the corresponding blog post.
